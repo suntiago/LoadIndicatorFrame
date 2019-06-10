@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ldc</string>
+
+    <string name="loadIndicatorFrameErrorButton">点击重试</string>
+    <string name="loadIndicatorFrameEmptyTitle">没有内容</string>
+    <string name="loadIndicatorFrameErrorTitle">网络出错啦</string>
+    <string name="click_screen_and_try_again">点击屏幕重试</string>
+</resources>

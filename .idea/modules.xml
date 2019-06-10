@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoadIndicatorFrame.iml" filepath="$PROJECT_DIR$/LoadIndicatorFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ldc/ldc.iml" filepath="$PROJECT_DIR$/ldc/ldc.iml" />
+    </modules>
+  </component>
+</project>
